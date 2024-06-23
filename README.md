@@ -1,1 +1,3 @@
-# .github
+# GordosBot
+
+A strong team
